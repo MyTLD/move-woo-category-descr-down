@@ -1,5 +1,5 @@
 === WooCommerce Move Category Description down in the page ===
-Contributors: suifengtec
+Contributors: themehow
 
 Donate link:http://themehow.com
 Tags: woocommerce, move woocommerce category description, move woocommerce product taxonomy
@@ -25,10 +25,10 @@ All you need to do after that is navigate to your blog’s administration panel,
 For more information, see the ["Installing Plugins" article on the WordPress Codex](http://codex.wordpress.org/Managing_Plugins#Installing_Plugins).
 
 == Frequently Asked Questions ==
-throw a message on:http://suoling.net/woocommerce-check-terms-conditions/
+throw a message on:https://themehow.com/
 = Any technical requirements? =
 
-throw a message on:http://suoling.net/woocommerce-check-terms-conditions/
+throw a message on:https://themehow.com/
 == Upgrade Notice ==
 * 1.0 Initial release
 == ChangeLog ==
